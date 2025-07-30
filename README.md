@@ -61,7 +61,7 @@ CodeAlpha_StudentGradeTracker/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/CodeAlpha_StudentGradeTracker.git
+   git clone https://github.com/Neelayaswanth/CodeAlpha_StudentGradeTracker.git
    cd CodeAlpha_StudentGradeTracker
    ```
 
@@ -181,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **GitHub Repository**: [CodeAlpha_StudentGradeTracker](https://github.com/yourusername/CodeAlpha_StudentGradeTracker)
+- **GitHub Repository**: [CodeAlpha_StudentGradeTracker](https://github.com/Neelayaswanth/CodeAlpha_StudentGradeTracker)
 - **LinkedIn**: [Your LinkedIn Profile]
 - **CodeAlpha**: [@CodeAlpha](https://www.linkedin.com/company/codealpha)
 
